@@ -9,3 +9,14 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+
+.done-true {
+  text-decoration: line-through;
+  color: grey;
+}
+
+#todoDiv {
+	text-align: left;
+	margin: 0 auto;
+	width: 260px;
+}
