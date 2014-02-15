@@ -10,4 +10,7 @@ Currently the project uses SASS and Compass.
 
 Once you have Compass installed, run 'compass compile' to complie the needed css.
 
-In the future we will be adding Angular.js and Couch DB
+Added AngulagJS
+CouchDB still needs to be here too!
+
+Also this is a test of Pull Requests
