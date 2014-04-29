@@ -1,19 +1,17 @@
 {
-  "name": "mean",
-  "description": "MEAN.io: A fullstack javascript platformed powerd by MongoDB, ExpressJS, AngularJS, NodeJS.",
+  "name": "DreamScheduler",
+  "description": "UVU's app to display student plans, and determine when to open courses.",
   "version": "0.3.2",
   "private": false,
-  "author": "Linnovate <mean@linnovate.net>",
+  "author": "UVU",
   "contributors": [
-    { "name": "Lior Kesos", "mail": "lior@linnovate.net" },
-    { "name": "Yonatan Ellman", "mail": "yonatan@linnovate.net" },
-    { "name": "Ehud Shahak", "mail": "ehud@linnovate.net" },
-    { "name": "Amos Haviv", "mail": "mail@amoshaviv" },
-    { "name": "Drew Fyock", "mail": "drew@steelbisondev.com" }
+    { "name": "Landon Conover", "mail": "Landon.Conover@uvu.edu" },
+    { "name": "Curtis Jensen", "mail": "Jensen.Cletus@gmail.com" },
+    { "name": "Thor Anderson", "mail": "Thor.Anderson@uvu.edu" }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/linnovate/mean.git"
+    "url": "https://github.com/landonconover/UVU_DGM_Dream_Sch"
   },
   "engines": {
     "node": "0.10.x",
